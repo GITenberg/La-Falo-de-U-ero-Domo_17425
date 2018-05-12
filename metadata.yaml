@@ -1,0 +1,37 @@
+_repo: La-Falo-de-U-ero-Domo_17425
+_version: 0.1.0
+alternative_title: The Fall of the House of Usher. Esperanto
+contributor:
+  translator:
+    agent_name: Grobe, Edwin
+    birthdate: 1927
+    gutenberg_agent_id: '7369'
+    url: http://www.gutenberg.org/2009/agents/7369
+    wikipedia: http://eo.wikipedia.org/wiki/Edwin_GROBE
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2006-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17425'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcc 'PS'
+title: La Falo de Uŝero-Domo
+url: http://www.gutenberg.org/ebooks/17425
